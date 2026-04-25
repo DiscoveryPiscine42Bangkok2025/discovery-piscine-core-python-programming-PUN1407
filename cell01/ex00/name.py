@@ -1,3 +1,3 @@
 first_name = input()
 last_name = input ()
-print(first_name" "last_name)
+print(first_name+" "+last_name)gi
